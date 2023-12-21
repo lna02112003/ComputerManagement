@@ -1,0 +1,75 @@
+.data{
+    display: flex;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+.data_img{
+    width: 50%;
+}
+.data_content{
+    margin-top: 30px;
+    width: 50%;
+}
+.btn_decending, .btn_acending{
+    background-color: #0598ff;
+    border-radius: 50px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+.input_quantity{
+    border: none;
+    width: 50px;
+    text-align: center;
+}
+.form_quantity{
+    border: 1px solid #a7a4a4;
+    width: 133px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50px;
+}
+.product_data{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 20px 0px;
+}
+.price_data{
+    font-size: 24px;
+    color: #0598ff;
+    margin-bottom: 10px;
+}
+.ram_data, .storage_data, .display_data{
+    margin: 10px 0px;
+}
+.span_title{
+    font-weight: bold;
+}
+.data{
+    padding: 60px 30px;
+}
+.tabs{
+    border: 1px solid #a7a4a4;
+    padding: 30px 10px;
+    border-radius: 50px;
+    margin: 30px 0px;
+}
+.btn-add{
+    margin: 30px 0px 0px 0px;
+    border-radius: 30px;
+}
+.div-flex{
+    display: flex;
+}
+.div-flex-1{
+    margin-top: 28px;
+    margin-right: 50px;
+}
+.product_content{
+    color: #333;
+}
+.product-other{
+    margin-top: 30px;
+}
+.data_img p{
+    margin-bottom: 100px;
+}

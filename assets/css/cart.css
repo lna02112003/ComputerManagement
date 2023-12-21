@@ -1,0 +1,47 @@
+/* CSS cho bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #ffffffff;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #0598ff;
+    color: white;
+}
+.btn_decending, .btn_acending{
+    background-color: #0598ff;
+    border-radius: 50px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+.input_quantity{
+    border: none;
+    width: 50px;
+    text-align: center;
+}
+.form_quantity{
+    border: 1px solid #a7a4a4;
+    width: 133px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50px;
+}
+.img-product{
+    width: 100px;
+}
+.product-other{
+    padding-bottom: 300px;
+}
+.btn-pay{
+    margin-right: 20px;
+}
